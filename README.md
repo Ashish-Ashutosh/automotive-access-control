@@ -1,2 +1,2 @@
-# automotive-access-control
-An automotive access control experiment using Spring Boot, XACML &amp; OBD-II.
+# An Access Control Framework for Location, Time and Frequency Based Access for Automotive
+Tools: Spring Boot, XACML &amp; OBD-II.
